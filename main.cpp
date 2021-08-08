@@ -1,4 +1,5 @@
 #include <iostream>
+#include "Myclass.hpp"
 
 int
 main(int argc, char *argv[])
