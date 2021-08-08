@@ -1,0 +1,6 @@
+class
+Myclas
+{
+    MyClass = default();
+
+};
