@@ -1,11 +1,11 @@
-#include <iostream>
+#include <string>
 #include "Myclass.hpp"
 
 int
 main(int argc, char *argv[])
 {
     MyClass m;
-    std::cout << "New line" << std::endl;
+    std::string example{"example_string"};
 
     return 0;
 }
